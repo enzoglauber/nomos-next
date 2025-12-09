@@ -1,0 +1,10 @@
+{
+  "name": "@nomos-next/nomos-next-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@nomos-next/nomos-next"
+    ]
+  }
+}
